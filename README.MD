@@ -1,5 +1,6 @@
 # ZSSLR
 Original Pytorch implementation of [Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?](https://arxiv.org/pdf/1907.10292.pdf)
+(BMVC 2019)
 
 <p align="center">
   <img src="images/method.png" align="center" width="738px" height="374px"/>
