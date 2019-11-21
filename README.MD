@@ -2,7 +2,7 @@
 Original Pytorch implementation of [Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?](https://arxiv.org/pdf/1907.10292.pdf)
 
 <p align="center">
-  <img src="images/method.png" align="center" width="878px" height="514px"/>
+  <img src="images/method.png" align="center" width="838px" height="474px"/>
 </p>
 
 If you find this helpful, please cite ZSSLR
