@@ -33,23 +33,12 @@ You can download the data from (https://drive.google.com/open?id=1drb2RYvKK2BJ3w
 
 ### Experiments
 How to evaluate the pretrained model:
-
-Run
 ```
 python evaluate.py
 ```
 How to train the model:
-
-Modify
 ```
-1. params.json
-```
-
-for parameters.
-
-Run
-
-```
+1. Modify params.json for parameters.
 2. python train.py
 ```
 Thanks!
