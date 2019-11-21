@@ -6,14 +6,14 @@ Original Pytorch implementation of [Zero-Shot Sign Language Recognition: Can Tex
 </p>
 
 If you find this helpful, please cite ZSSLR
-
+```
 @inproceedings{bilge19zsslr,
       author = {Bilge, Yunus Can and Ikizler-Cinbis, Nazli and Cinbis, Ramazan Gokberk},
       title = {Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?},
       booktitle = {Proceedings of the British Machine Vision Conference ({BMVC})},
       year = {2019}
 }
-
+```
 ### Requirements
 The code was implemented using Python 2.7.15 and
 ```
@@ -33,12 +33,19 @@ You can download the data from (https://drive.google.com/open?id=1drb2RYvKK2BJ3w
 
 ### Experiments
 How to evaluate the pretrained model:
+Run
 ```
-Run python evaluate.py
+python evaluate.py
 ```
 How to train the model:
+Modify
 ```
-1. Modify params.json for parameters
-2. Run python train.py
+1. params.json
+```
+for parameters.
+Run
+
+```
+2. python train.py
 ```
 Thanks!
