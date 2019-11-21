@@ -37,7 +37,7 @@ How to evaluate the pretrained model:
 ```
 python evaluate.py
 ```
-How to train the model:
+How to train a model:
 ```
 1. Modify params.json for parameters.
 2. python train.py
