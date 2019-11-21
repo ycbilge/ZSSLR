@@ -1,8 +1,8 @@
 # ZSSLR
 Original Pytorch implementation of [Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?](https://arxiv.org/pdf/1907.10292.pdf)
 
-<p align="center">
-  <img src="images/method.png" align="center" width="500px" height="250px"/>
+<p align="justify">
+  <img src="images/method.png" align="center" width="439px" height="257px"/>
 </p>
 
 If you find this helpful, please cite ZSSLR
@@ -33,16 +33,20 @@ You can download the data from (https://drive.google.com/open?id=1drb2RYvKK2BJ3w
 
 ### Experiments
 How to evaluate the pretrained model:
+
 Run
 ```
 python evaluate.py
 ```
 How to train the model:
+
 Modify
 ```
 1. params.json
 ```
+
 for parameters.
+
 Run
 
 ```
